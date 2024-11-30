@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes,Messag
 import requests
 import re
 
-TOKEN='7641686551:AAEMyjqiay2Xk5um7AH3bP6m5ZFHWrmdZ-o'
+TOKEN='YOU_TOKEN'
 API_URL = 'http://localhost:8000'  # адрес вашего FastAPI приложения
 
 
